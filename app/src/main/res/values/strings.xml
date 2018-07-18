@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HotelApp</string>
+    <string name="chats">Order</string>
+    <string name="status">orderd</string>
+    <string name="calls">Transactions</string>
+    <string name="menu_view_transaction">view your transtactions</string>
+    <string name="menu_make_order">Make your order</string>
+    <string name="menu_view_orders">view your orders</string>
+    <string name="navigation_drawer_profile">profile</string>
+    <string name="navigation_drawer_weather">weather</string>
+    <string name="navigation_drawer_location">location</string>
+    <string name="item_title">Add-Ons</string>
+    <string name="navigation_drawer_notications">Notificatons</string>
+    <string name="navigation_drawer_settings">Settings</string>
+</resources>
